@@ -1,0 +1,4 @@
+train:  /home/Anjali/Documents/VisDrone_runs/VisDrone2019-DET-train (copy)
+val:   /home/Anjali/Documents/VisDrone_runs/VisDrone2019-DET-test-dev-copy
+nc: 1
+names: ['p']
